@@ -7,6 +7,8 @@
 
 ## Welcome to Transpopt.
 
+*Note that this implementation relies purely on the standard [optimaltransport](https://github.com/LiamCattell/optimaltransport). Therefore, if one uses our package, please also cite the original [authors](https://github.com/LiamCattell/optimaltransport/blob/master/README.md).*
+
 ...
 
 Use Transpopt if you need a library or wish to:

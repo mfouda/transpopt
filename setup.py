@@ -14,7 +14,8 @@ setup(name='transpopt',
       license='GPL-3.0',
       install_requires=['coverage>=5.2.1',
                         'pylint>=2.5.3',
-                        'pytest>=6.0.1'
+                        'pytest>=6.0.1',
+                        'scipy>=1.4.1'
                         ],
       extras_require={
           'tests': ['coverage',
