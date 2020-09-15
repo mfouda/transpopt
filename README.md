@@ -9,13 +9,13 @@
 
 *Note that this implementation relies purely on the standard [optimaltransport](https://github.com/LiamCattell/optimaltransport). Therefore, if one uses our package, please also cite the original [authors](https://github.com/LiamCattell/optimaltransport/blob/master/README.md).*
 
-...
+Did you ever want to calculate and measure a transporting function from a domain to another? Are you tired of re-implementing or not using state-of-the-art transforms? If yes, Transpopt is the real deal! This package provides an easy-to-go implementation of optimal transport transforms. Additionally, it includes high-level examples, commentaries, and extensive documentation to help you achieve your needs.
 
 Use Transpopt if you need a library or wish to:
-* 1;
-* 2;
-* 3;
-* 4.
+* Transport data from one domain to another;
+* Design or use pre-loaded transforms;
+* Mix-and-match different strategies to tackle your problem;
+* Because it is fantastic to transport stuff.
 
 Read the docs at [transpopt.readthedocs.io](https://transpopt.readthedocs.io).
 
@@ -28,7 +28,7 @@ Transpopt is compatible with: **Python 3.6+**.
 1. The very first information you need is in the very **next** section.
 2. **Installing** is also easy if you wish to read the code and bump yourself into, follow along.
 3. Note that there might be some **additional** steps in order to use our solutions.
-4. If there is a problem, please do not **hesitate**, call us.
+4. If there is a problem, please do not **hesitate**. Call us.
 
 ---
 
@@ -68,15 +68,15 @@ Note that sometimes, there is a need for additional implementation. If needed, f
 
 ### Ubuntu
 
-No specific additional commands needed.
+No specific additional commands are needed.
 
 ### Windows
 
-No specific additional commands needed.
+No specific additional commands are needed.
 
 ### MacOS
 
-No specific additional commands needed.
+No specific additional commands are needed.
 
 ---
 
